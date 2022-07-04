@@ -9,4 +9,4 @@ FIT20MCA-2067
 S4-B
 
 Guide : Ms.Anju Lal
-Scrum : Dr.Deepa Mary Mathwes
+Scrum : Dr.Deepa Mary Mathews
